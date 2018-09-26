@@ -1,3 +1,14 @@
+#################### This repository ####################
+.vscode/
+runs/
+word2vec/
+rnn_classifier.py
+eager_train.py
+dataset/*
+!dataset/data_lemmatize.json
+!dataset/stopwords.txt
+
+#################### Auto generated ####################
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
